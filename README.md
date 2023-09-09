@@ -1,4 +1,4 @@
 # testrepo
 
-##Editing this file
+## Editing this file
 #this is my first proper understanding of github
